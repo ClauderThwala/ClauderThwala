@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ClauderThwala
 - 👀 I’m interested in codinding and I am overall enthusiastic about technology
 - 🌱 I’m currently learning how to code in JAVA and currently doing my Degree in Mechatronics engineering. 
+     I currently know C and C++
 - 💞️ I’m looking to collaborate on any projects available to exercise my skills
 - 📫 How to reach me send an Email clauder990703@gmail.com
 
